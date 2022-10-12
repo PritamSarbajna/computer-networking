@@ -16,7 +16,7 @@
 - It actually uses massive switches which are in distribution layer. (eg. Cisco nexus class switches)
 - The distribution layer switches are known as **_spine nodes_**.
 - The access layer switches are known as **_leaf nodes_**.
-- It's now predictible how many hop a packet will take.
+- It's now predictable how many hop a packet will take.
 - Takes less time to reach a packet from server to server.
 - Too many Fiber-optic cables.
 - Handles north south traffic as well as east west traffic.
